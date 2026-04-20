@@ -162,6 +162,13 @@
 
 <p align="left">This dashboard is divided into three parts: Profile Distributions, Academic Performance, and Behavior Analysis. 3 cards offer a quick overview of the overall interaction with student performance. Users can explore the data based on 5 criteria: gender, career aspirations, part-time job, extracurricular activities, and attendance performance.</p>
 
+<p align="center"> <img width="900" height="420" alt="Image" src="https://github.com/user-attachments/assets/3b84fbf3-f4e9-4c2c-a819-b8e7d8b2bcd6" /> </p>
+  
+<p align="center"> <img width="900" height="470" alt="Image" src="https://github.com/user-attachments/assets/9565de3f-36d4-4379-a422-5df6169130ec" />
+ </p>
+
+<p align="center"> <img width="900" height="570" alt="Image" src="https://github.com/user-attachments/assets/d95e364e-2299-4b2d-9915-127773aa42f5" /> </p>
+
 ###
 
 <h2 align="left">Recommendations</h2>
