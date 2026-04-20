@@ -43,9 +43,9 @@
 <h4 align="left">2. Identify and Remove Duplicate Value</h4>
 
 ###
-<p align="center"> <img width="420" height="363" alt="Image" src="https://github.com/user-attachments/assets/997af059-4e5a-4d3a-8cf2-5e12c906620d" /> </p>
+<p align="center"> <img width="400" height="350" alt="Image" src="https://github.com/user-attachments/assets/997af059-4e5a-4d3a-8cf2-5e12c906620d" /> </p>
 
-<p align="center"> <img width="563" height="357" alt="Image" src="https://github.com/user-attachments/assets/46ad4ead-96d5-473b-a89c-585cae6de787" /> </p>
+<p align="center"> <img width="400" height="250" alt="Image" src="https://github.com/user-attachments/assets/46ad4ead-96d5-473b-a89c-585cae6de787" /> </p>
 
 <p align="left">Remove Duplicates function was applied to remove duplicate records, and the result above shows that this dataset contains no duplicates.</p>
 
