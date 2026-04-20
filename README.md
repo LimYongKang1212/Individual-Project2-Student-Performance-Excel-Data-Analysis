@@ -69,6 +69,30 @@
     <td>English_score</td>
     <td>English score (0 – 100)</td>
   </tr>
+  <tr>
+    <td>Geography_score</td>
+    <td>Geography score (0 – 100)</td>
+  </tr>
+  <tr>
+    <td>Part_time_job</td>
+    <td>Do students have a part-time job or not</td>
+  </tr>
+   <tr>
+    <td>Absence_days</td>
+    <td>Total number of days the students do not attend the class</td>
+  </tr>
+   <tr>
+    <td>Extracurricular_activities</td>
+    <td>Students join any extracurricular activities</td>
+  </tr>
+   <tr>
+    <td>Weekly_self_study_hours</td>
+    <td>Total number of hours the student studies (Per Week)</td>
+  </tr>
+  <tr>
+    <td>Career_aspiration</td>
+    <td>Student’s career aspirations or goals for the future</td>
+  </tr>
 </table>
 
 ###
